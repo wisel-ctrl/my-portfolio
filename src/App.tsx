@@ -96,7 +96,7 @@ export default function App() {
       <section id="home" className="section section--hero">
         <div className="hero-bg" />
         <div className="hero-portrait">
-          <img src="/profile.jpg" alt="Wesley Fuentes Bibon" />
+          <img src="../public/profile.jpg" alt="Wesley Fuentes Bibon" />
         </div>
         <div className="container hero-content">
           <p className="hero-eyebrow">Hello, I'm</p>
